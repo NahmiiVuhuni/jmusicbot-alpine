@@ -1,0 +1,6 @@
+This project is released under the BSD 3-Clause License, provided in the LICENSE file in the same directory. All files within this repository are licensed this way.
+The provided Dockerfile is a script used to build a final monolithic image, and the script grabs other works that are licensed seperately, and that image is provided on Docker Hub for ease of use.
+
+Other projects included only in the final image:
+JMusicBot, released under the Apache-2.0 License.
+
