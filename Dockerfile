@@ -3,7 +3,7 @@ FROM alpine:3.12.1
 LABEL Maintainer="Hubok <docker-maint@hubok.net>" \
       Description="JMusicBot (Discord music bot) on Alpine."
 
-ARG VERSION_JMB=0.3.1
+ARG VERSION_JMB=0.3.2
 ARG VERSION_JAVA=8
 
 COPY src /
