@@ -3,7 +3,8 @@
 - **Where to get help**: [the Docker Community Forums](https://forums.docker.com/), [the Docker Community Slack](https://dockr.ly/slack), or [Stack Overflow](https://stackoverflow.com/search?tab=newest&q=docker)
 
 # Supported tags and respective `Dockerfile` links
-- [`0.3.2`, `latest`](https://github.com/Hubok/jmusicbot/blob/0.3.2/Dockerfile)
+- [`0.3.3`, `latest`](https://github.com/Hubok/jmusicbot/blob/0.3.3/Dockerfile)
+- [`0.3.2`](https://github.com/Hubok/jmusicbot/blob/0.3.2/Dockerfile)
 - [`0.3.1`](https://github.com/Hubok/jmusicbot/blob/0.3.1/Dockerfile)
 
 # Quick reference (cont.)
